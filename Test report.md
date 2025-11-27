@@ -116,13 +116,13 @@ https://drive.google.com/file/d/1wlbDTZgSVdtKnyVUzuPn3yknqNiHk71i/view?usp=shari
 9. Авторизация - после успешной авторизации в авторизованной зоне кнопка Войти должна изменится на кнопку Профиль, должно быть выпадающее меню при клике на кнопку Профиль  
 ![кнопка Войти должна изменится на кнопку Профиль](screenshots/Login_button.png)
 
-[Баг-репорт]([https://github.com/AlexandraKol/-ru_manual_testing_QA/blob/main/Bug%20report.md](https://github.com/AlexandraKol/-ru_manual_testing_QA/blob/main/Bug%20reports/Bug%20report_9.md)
+[Баг-репорт](https://github.com/AlexandraKol/-ru_manual_testing_QA/blob/main/Bug%20reports/Bug%20report_9.md)
 
 10. Авторизация с невалидными данными/незарегистрированной почтой
 авторизация не происходит, информация об ошибке не выделена красным, не бросается в глаза, пользователь может не увидеть проблему
 ![информация об ошибке не выделена красным](screenshots/not_highlighted_in_red_.png)
 
-[Баг-репорт]([https://github.com/AlexandraKol/-ru_manual_testing_QA/blob/main/Bug%20report.md](https://github.com/AlexandraKol/-ru_manual_testing_QA/blob/main/Bug%20reports/Bug%20report_10.md)
+[Баг-репорт](https://github.com/AlexandraKol/-ru_manual_testing_QA/blob/main/Bug%20reports/Bug%20report_10.md)
 
 ### 6. Рекомендации по улучшению:
 - Хедер главной страницы - Категории - меню навигации закрывается только при клике на кнопку Категории, лучше добавить закрытие навигации при клике за пределы меню
