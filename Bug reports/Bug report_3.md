@@ -8,4 +8,4 @@
 
 **Фактический результат:**  всплывающее окно прилипло к краю окна, элементы внутри окна также смещены
 
-![](screenshots/offset_to_edge_of_screen.png)  
+![скриншот](screenshots/offset_to_edge_of_screen.png)  
