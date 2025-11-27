@@ -73,12 +73,12 @@
 1. Главная страница - работа поиска (при вводе ключевого слова поиска после существующего поиска и клике на Enter окно с подсказками не пропадает)
 https://drive.google.com/file/d/1NPsJdBAGdamcDk6EudPIbtfn9qhWakj6/view?usp=sharing 
 
-[Баг-репорт](/Bug report.md), кейс 1
+[Баг-репорт](./Bug report.md), кейс 1
 
 2. Главная страница - Фильтр - при выборе фильтра и нажатии на кнопку Сброс чекбоксы не обнуляются
 https://drive.google.com/file/d/1qxAEe__3oiNLOSmny-sb9tuNV9-yubxT/view?usp=sharing 
 
-[баг-репорт](Bug report.md), кейс 2
+[баг-репорт](https://github.com/AlexandraKol/-ru_manual_testing_QA/blob/main/Bug%20report.md), кейс 2
 
 3. Добавление товара в корзину - всплывающее окно Корзина, корректное отображение элементов
 при ширине окна до 1280рх окно прилипает к краю экрана, позиции и кнопки смещаются
