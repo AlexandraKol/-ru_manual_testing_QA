@@ -8,4 +8,4 @@
 
 **Фактический результат:**  всплывающее окно прилипло к краю окна, элементы внутри окна также смещены
 
-![скриншот](screenshots/offset_to_edge_of_screen.png)  
+![скриншот](https://github.com/AlexandraKol/-ru_manual_testing_QA/blob/main/screenshots/offset_to_edge_of_screen.png)  
